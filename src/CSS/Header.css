@@ -1,0 +1,34 @@
+.navbar {
+  font-family: "Roboto";
+  color: #fff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.login {
+  display: flex;
+  margin: 20px 0 0 0;
+}
+.login button {
+  color: #fff;
+  padding: 5px 10px;
+}
+.logo {
+  margin: 20px 0 0 0;
+  height: 60px;
+  width: 60px;
+}
+.logo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.login h3 {
+  margin: 15px 18px 8px 8px;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  background: transparent !important;
+  box-shadow: none !important;
+}
