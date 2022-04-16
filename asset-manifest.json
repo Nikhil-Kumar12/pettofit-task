@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.66a3d0ea.css",
-    "main.js": "/react-gh-pages/static/js/main.8f8b3dcf.js",
-    "static/js/787.77852707.chunk.js": "/react-gh-pages/static/js/787.77852707.chunk.js",
-    "static/media/backpack.png": "/react-gh-pages/static/media/backpack.b73dfffb988b89720ffc.png",
-    "static/media/bg.png": "/react-gh-pages/static/media/bg.39549c184bcfbbbace4e.png",
-    "static/media/logo.jpg": "/react-gh-pages/static/media/logo.ca1178059cb5880dcde4.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.66a3d0ea.css.map": "/react-gh-pages/static/css/main.66a3d0ea.css.map",
-    "main.8f8b3dcf.js.map": "/react-gh-pages/static/js/main.8f8b3dcf.js.map",
-    "787.77852707.chunk.js.map": "/react-gh-pages/static/js/787.77852707.chunk.js.map"
+    "main.css": "/pettofit-task/static/css/main.066cc35a.css",
+    "main.js": "/pettofit-task/static/js/main.0d7b0635.js",
+    "static/js/787.77852707.chunk.js": "/pettofit-task/static/js/787.77852707.chunk.js",
+    "static/media/backpack.png": "/pettofit-task/static/media/backpack.b73dfffb988b89720ffc.png",
+    "static/media/bg.png": "/pettofit-task/static/media/bg.39549c184bcfbbbace4e.png",
+    "static/media/logo.jpg": "/pettofit-task/static/media/logo.ca1178059cb5880dcde4.jpg",
+    "index.html": "/pettofit-task/index.html",
+    "main.066cc35a.css.map": "/pettofit-task/static/css/main.066cc35a.css.map",
+    "main.0d7b0635.js.map": "/pettofit-task/static/js/main.0d7b0635.js.map",
+    "787.77852707.chunk.js.map": "/pettofit-task/static/js/787.77852707.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a3d0ea.css",
-    "static/js/main.8f8b3dcf.js"
+    "static/css/main.066cc35a.css",
+    "static/js/main.0d7b0635.js"
   ]
 }
